@@ -2,7 +2,7 @@
   function changeTooltipColorTo(color) {
         $('.tooltip-inner').css('border-color', color)
         $('.bs-tooltip.top .arrow').css('border-top-color', color);
-        // $('.bs-tooltip.right .tooltip-arrow').css('border-right-color', color);
+        // $('.bs-tooltip.right .tooltip-arrow').css('border-right-color', color); 
         // $('.bs-tooltip.left .tooltip-arrow').css('border-left-color', color);
         // $('.bs-tooltip.bottom .tooltip-arrow').css('border-bottom-color', color);
       }
